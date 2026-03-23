@@ -182,5 +182,9 @@ src/best_config.json
 
 **Nikesh Kumar Mandal**
 Roll Number: **ID25M805**
-Report link:
-https://wandb.ai/id25m805-iitmaana/uncategorized/reports/Report--VmlldzoxNjEzMzQyNA
+There is one qn ans in one report link and the rest in another
+Report link1:
+https://wandb.ai/id25m805-iitmaana/DA6401_Assignment_1/reports/Untitled-Report--VmlldzoxNjEzMzMyMA?accessToken=835dt9zjykboqrb074kd1gf0yqvtk8kgs42j1bse87uencos3tgl7jye0rsdzy9q
+
+Report Link2:
+https://api.wandb.ai/links/id25m805-iitmaana/mw9t8gkm
